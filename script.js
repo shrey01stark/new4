@@ -89,43 +89,43 @@ document.addEventListener('DOMContentLoaded', () => {
   const team = [
     {
       img: "./assets/img/M1.png",
-      quote: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+      quote: "Meticulous perfectionist always two steps ahead, double-checking every detail to ensure 180DC runs flawlessly end to end.",
       role: "President",
       name: "Vatsal Sarawagi"
     },
     {
       img: "./assets/img/M2.png",
-      quote: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+      quote: "Calm, mature, and effortlessly chill leader who stays composed under pressure and turns tense situations into ease.",
       role: "Vice-President",
       name: "Siddhant Gopalka"
     },
     {
       img: "./assets/img/Hey.png",
-      quote: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+      quote: "Warm, approachable, and universally loved, she embodies the spirit of 180DC and makes every room brighter.",
       role: "General Secretary",
       name: "Garima Ahuja"
     },
     {
       img: "./assets/img/M4.png",
-      quote: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+      quote: "Knowledgeable and thoughtful voice, always ready with constructive insights, balancing logic, clarity, and genuine care.",
       role: "Consulting Director",
       name: "Divisha"
     },
     {
       img: "./assets/img/M5.png",
-      quote: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+      quote: "Unpredictably creative yet reliable, he brings bold ideas, punctual execution, and relentless commitment until every task is complete.",
       role: "Marketing Director",
       name: "Bhavye Gattani"
     },
     {
       img: "./assets/img/M6.png",
-      quote: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+      quote: "Quiet yet confident, he builds instant client trust through professionalism, warmth, and a consistently positive presence.",
       role: "Client Acquisition Director",
       name: "Deepanshu"
     },
     {
       img: "./assets/img/M7.png",
-      quote: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.",
+      quote: "Operations Director with strong domain knowledge and valuable connections, ensuring smooth execution and scalable organisational growth.",
       role: "Operations Director",
       name: "Kush Singla"
     }
